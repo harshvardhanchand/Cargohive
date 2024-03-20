@@ -1,4 +1,4 @@
-# Supply-Chain-Project
+# Supply chain optimization and demand Forecasting 
 
 <b><h3>Introduction</h3></b>
 We are using innovative technologies to improve the efficiency and transparency of supply chain management, which can benefit businesses by helping them better serve their customers and stakeholders.
